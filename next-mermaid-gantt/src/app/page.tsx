@@ -1,6 +1,6 @@
 import dynamic from "next/dynamic";
 
-const Mermaid = dynamic(() => import("./components/mermaid"), {
+const Mermaid = dynamic(() => import("./components/Mermaid"), {
   ssr: true,
   loading: () => <div className="loading">圖表載入中...</div>,
 });
