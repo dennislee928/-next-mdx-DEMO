@@ -9,10 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "mermaid": "^11.10.1",
-    "next": "15.4.7",
+    "mermaid": "^11.10.0",
+    "next": "15.5.2",
     "react": "^19.1.1",
-    "react-dom": "^19.1.1"
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
