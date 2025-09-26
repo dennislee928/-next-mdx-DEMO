@@ -12,7 +12,7 @@
     "mermaid": "^11.10.1",
     "next": "15.5.2",
     "react": "^19.1.1",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.1.1"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
