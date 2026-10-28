@@ -36,6 +36,7 @@
     "flatted": "^3.4.2",
     "picomatch": "^4.0.4",
     "source-map-js": "^1.2.2",
-    "@humanfs/node": "^0.16.8"
+    "@humanfs/node": "^0.16.8",
+    "ajv": "^6.14.0"
   }
 }
