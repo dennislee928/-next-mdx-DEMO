@@ -26,6 +26,7 @@
     "typescript": "^5"
   },
   "overrides": {
-    "dompurify": "^3.4.17"
+    "dompurify": "^3.4.17",
+    "brace-expansion": "^2.1.7"
   }
 }
